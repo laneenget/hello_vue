@@ -1,0 +1,2 @@
+There is no definition for total in the data object, but it is referenced elsewhere.
+Creating total in the data object will fix this issue.
